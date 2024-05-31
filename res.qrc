@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>start.jpg</file>
+        <file>background.jpg</file>
+        <file>map.jpg</file>
+    </qresource>
+</RCC>
